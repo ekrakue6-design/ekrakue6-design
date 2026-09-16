@@ -5,7 +5,7 @@
 
 I am a Mechatronics Engineering student with a growing interest in robotics, artificial intelligence, machine learning, and intelligent systems.
 
-I am currently building my foundation in Python, engineering mathematics, mechanics, electronics, electrical systems, CAD, and computer science. My goal is to gradually combine these areas to develop practical robotic and autonomous systems.
+I am currently building my foundation in Python, engineering mathematics, mechanics, electronics, electrical systems, CAD, and computer science with an aim to gradually combine these areas to develop practical robotic and autonomous systems.
 
 ### What I'm Learning
 
