@@ -9,13 +9,14 @@ I am currently building my foundation in Python, engineering mathematics, mechan
 
 ### What I'm Learning
 
-- 🐍 Python and programming fundamentals
-- 🤖 Robotics and intelligent systems
-- 🧠 Artificial Intelligence and Machine Learning
-- ⚙️ Mechatronics and mechanical systems
-- 📐 CAD and engineering graphics
-- ⚡ Electrical and electronic systems
-- 📊 Mathematics and statistics for engineering and AI
+◇ 🐍 Python and programming fundamentals
+◇ 🤖 Robotics and intelligent systems
+◇ 🧠 Artificial Intelligence and Machine Learning
+◇ ⚙️ Mechatronics and mechanical systems
+◇ 📐 CAD and engineering graphics
+◇ ⚡ Electrical and electronic systems
+
+♧ 📊 Mathematics and statistics for engineering and AI
 
 ### Current Focus
 
@@ -25,13 +26,13 @@ I believe in learning the fundamentals properly, building projects along the way
 
 ### Areas of Interest
 
-- Robotics
-- Autonomous Systems
-- Artificial Intelligence
-- Machine Learning
-- Space Robotics
-- Control Systems
-- Mechanical and Electrical Systems
+♡ Robotics
+♡ Autonomous Systems
+♡Artificial Intelligence
+♡ Machine Learning
+♡ Space Robotics
+♡Control Systems
+♡ Mechanical and Electrical Systems
 
 ### Tech & Tools
 
@@ -41,7 +42,7 @@ More technologies will be added as I learn and build with them.
 
 ### My Goal
 
-To develop strong engineering and computational skills and eventually work on advanced robotic and autonomous systems, particularly in areas where robotics, AI, and space engineering meet.
+Is to develop strong engineering and computational skills and eventually work on advanced robotic and autonomous systems, particularly in areas where robotics, AI, and space engineering meet.
 
 ---
 
