@@ -10,10 +10,15 @@ I am currently building my foundation in Python, engineering mathematics, mechan
 ### What I'm Learning
 
 ◇ 🐍 Python and programming fundamentals
+
 ◇ 🤖 Robotics and intelligent systems
+
 ◇ 🧠 Artificial Intelligence and Machine Learning
+
 ◇ ⚙️ Mechatronics and mechanical systems
+
 ◇ 📐 CAD and engineering graphics
+
 ◇ ⚡ Electrical and electronic systems
 
 ♧ 📊 Mathematics and statistics for engineering and AI
@@ -27,11 +32,17 @@ I believe in learning the fundamentals properly, building projects along the way
 ### Areas of Interest
 
 ♡ Robotics
+
 ♡ Autonomous Systems
-♡Artificial Intelligence
+
+♡ Artificial Intelligence
+
 ♡ Machine Learning
+
 ♡ Space Robotics
-♡Control Systems
+
+♡ Control Systems
+
 ♡ Mechanical and Electrical Systems
 
 ### Tech & Tools
