@@ -1,16 +1,48 @@
-## Hi there 👋
 
-<!--
-**ekrakue6-design/ekrakue6-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Ekrakue 👋
 
-Here are some ideas to get you started:
+### Mechatronics Engineering Student | Robotics | AI/ML
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a Mechatronics Engineering student with a growing interest in robotics, artificial intelligence, machine learning, and intelligent systems.
+
+I am currently building my foundation in Python, engineering mathematics, mechanics, electronics, electrical systems, CAD, and computer science. My goal is to gradually combine these areas to develop practical robotic and autonomous systems.
+
+### What I'm Learning
+
+- 🐍 Python and programming fundamentals
+- 🤖 Robotics and intelligent systems
+- 🧠 Artificial Intelligence and Machine Learning
+- ⚙️ Mechatronics and mechanical systems
+- 📐 CAD and engineering graphics
+- ⚡ Electrical and electronic systems
+- 📊 Mathematics and statistics for engineering and AI
+
+### Current Focus
+
+At the moment, I am strengthening my programming and engineering fundamentals while working on small projects and gradually moving toward more advanced robotics and AI/ML projects.
+
+I believe in learning the fundamentals properly, building projects along the way, and improving through practice.
+
+### Areas of Interest
+
+- Robotics
+- Autonomous Systems
+- Artificial Intelligence
+- Machine Learning
+- Space Robotics
+- Control Systems
+- Mechanical and Electrical Systems
+
+### Tech & Tools
+
+🐍 Python • 💻 Git • 🐙 GitHub • 📐 CAD • ⚡ Arduino
+
+More technologies will be added as I learn and build with them.
+
+### My Goal
+
+To develop strong engineering and computational skills and eventually work on advanced robotic and autonomous systems, particularly in areas where robotics, AI, and space engineering meet.
+
+---
+
+> Learning. Building. Improving. One project at a time.
